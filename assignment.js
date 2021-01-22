@@ -44,7 +44,7 @@ function hotelCost(day){
     }
     return rent;
 }
-console.log(hotelCost(22));
+
 
 
 
