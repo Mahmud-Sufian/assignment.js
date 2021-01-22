@@ -1,4 +1,4 @@
-
+// https://github.com/Mahmud-Sufian/assignment.js
 
 
 //kilometerToMeter
@@ -8,8 +8,7 @@ function kilometerToMeter(kilometer){
     return meter;
 }
 
-
-
+ 
 
 
 // budgetCalculator
@@ -20,6 +19,7 @@ function budgetCalculator(clock, mobile, laptop){
     var totalPrice = totalClock + totalMobile + totalLaptop;
     return totalPrice;
 }
+
 
 
 
